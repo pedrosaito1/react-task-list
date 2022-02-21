@@ -1,7 +1,6 @@
 # Todo List React
 
 <img src="./public/img/index.png"> <br>
-Você pode conferir tambem em: <a href="https://pedrosaito1.github.io/task-list/" target="_blank">task-list</a>
 
 
 ## Objetivo do projeto: 
@@ -32,6 +31,6 @@ Executar projeto: `npm start`<br>
 
 Pedro Saito 
 
-<img src="./public/img/pedro_saito.jpg" width="150px"></img><br>
+<img src="./public/img/pedro_saito.jpg" width="150px"><br>
 
 <a href="https://www.linkedin.com/in/pedrosaito1/" target="_blank">Linkedin</a>

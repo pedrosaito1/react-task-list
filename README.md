@@ -34,3 +34,4 @@ Pedro Saito
 <img src="./public/img/pedro_saito.jpg" width="150px"><br>
 
 <a href="https://www.linkedin.com/in/pedrosaito1/" target="_blank">Linkedin</a>
+<a href="mailto:contato.pedrosaito@gmail.com" target="_blank">Gmail</a>
